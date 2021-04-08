@@ -1,0 +1,15 @@
+.Navbar {
+	background-color: rgb(202, 241, 241);
+	padding: 1rem;
+}
+
+.Navbar a {
+	font-size: 1.5rem;
+	margin: 1rem;
+	color: rgba(255, 105, 180, 0.6);
+	text-decoration: none;
+}
+
+.Navbar a.active {
+	color: hotpink;
+}
